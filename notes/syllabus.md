@@ -1,5 +1,6 @@
-##GA306 section A Scripting for 3D Tools Tuesday 6PM – 10PM
-###Course Syllabus – Winter 2018
+## GA306 section A Scripting for 3D Tools Tuesday 6PM – 10PM
+
+### Course Syllabus – Winter 2018
 
 Meeting Times and Location
 Tuesday 6PM – 10PM - Room 202
@@ -53,39 +54,39 @@ WEEK 2
 Monday, January 15, 2018 Martin Luther King Day – School Closed
  
 WEEK 7
-Friday, February 19, 2018 President’s Day – School Closed
+Monday, February 19, 2018 President’s Day – School Closed
 
 Important Dates:
 
 WEEK 1
 Monday (1/08/2018):		Winter Term 11-week Session Begins
-Friday (1/12/2018):     		Graduation Application due for WI18 Grads
+Friday (1/12/2018):   Graduation Application due for WI18 Grads
 
 WEEK 2
-Tuesday  (1/16/2018):  		Last day of Schedule Adjustment Period 5PM Deadline
+Tuesday  (1/16/2018):  Last day of Schedule Adjustment Period 5PM Deadline
 
 WEEK 4
-	All Week			** Student Satisfaction Survey
+	All Week ** Student Satisfaction Survey
 					(Instructors: reserve 30 minutes during scheduled class)
 
 WEEK 6
-Thursday (2/15/2018): 		Winter Mid-Quarter Courses Begin
+Thursday (2/15/2018):  Winter Mid-Quarter Courses Begin
 
 WEEK 7
-Monday (2/19/2018):		Spring 2018 Registration Begins
+Monday (2/19/2018):	Spring 2018 Registration Begins
 
 WEEK 9
-Monday (3/5/2018):		IDEA Survey Begins (selected classes)
-Friday (3/9/2018):     		Last day to Drop with a “W”
+Monday (3/5/2018):  IDEA Survey Begins (selected classes)
+Friday (3/9/2018):  Last day to Drop with a “W”
 
 WEEK 10
-Friday (3/16/2018):     		Last day to submit Incomplete Grade form
+Friday (3/16/2018): Last day to submit Incomplete Grade form
 
 WEEK 11
-Monday (3/19/2018):  		WI18 Finals begin
-Friday (3/23/2018):     		Last day for Grads to submit Diploma Clearance Form for the FA term
-Friday (3/23/2018):     		Portfolio Show
-Saturday (3/24/2018): 		Quarter Ends
+Monday (3/19/2018):  WI18 Finals begin
+Friday (3/23/2018):  Last day for Grads to submit Diploma Clearance Form for the FA term
+Friday (3/23/2018):  Portfolio Show
+Saturday (3/24/2018): Quarter Ends
 
 Labeling Assignments
 All assignments must be saved with filenames as follows:
@@ -117,9 +118,6 @@ F
 B
 72 – 70
 C-
-
-
-
 
 Grade percentage/point breakdown:
 Weekly Assignments = 30%
@@ -222,78 +220,81 @@ Saturday Morning
 Tuesday 7:45PM – 9:45PM
 Wednesday Afternoon
 Wednesday 12:30PM – 2:30PM
-
-
 Wednesday Evening
 Wednesday 5:30PM – 7:30PM
-
-
-
 
 Course Calendar
 
 Week
 Topic
 Assignment
-Week 1
 
-Class Overview
+Week 1
+#### Topic: Class Overview
 Introduction to 3D scripting tools
 MEL basics
 Maya Command Engine and User Interface Pt. 1
-In-class:
-Practice principles covered during class. Details TBA in class.
+#### Assignment In-class:
+Practice principles covered during class.
+Details TBA in class.
+
 Week 2
-
-Maya Command Engine and User Interface Pt. 2
+#### Topic: Maya Command Engine and User Interface Pt. 2
 Python Data Basics Pt. 1
-In-class assignments:
-Practice principles covered during class. Details TBA in class.
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class.
+
 Week 3
-
-Python Data Basics Pt. 2
+#### Topic: Python Data Basics Pt. 2
 Writing Python Programs in Maya Pt. 1
-In-class assignments:
-Practice principles covered during class. Details TBA in class..
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class..
+
 Week 4
+#### Topic: Writing Python Programs in Maya Pt. 2
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class.
 
-Writing Python Programs in Maya Pt. 2
-In-class assignments:
-Practice principles covered during class. Details TBA in class.
 Week 5
-
-MIDTERM
+#### Topic: MIDTERM
 Modules Introduction
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class.
 
-In-class assignments:
-Practice principles covered during class. Details TBA in class.
 Week 6
-
-Modules
+#### Topic: Modules
 Object-Oriented Programming Pt. 1
-In-class assignments:
-Practice principles covered during class. Details TBA in class.
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class.
+
 Week 7
+#### Topic: Object-Oriented Programming Pt. 2
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class.
 
-Object-Oriented Programming Pt. 2
-In-class assignments:
-Practice principles covered during class. Details TBA in class.
 Week 8
+#### Topic: Principles of Maya Tool Design
+#### Assignment In-class assignments:
+Practice principles covered during class.
+Details TBA in class..
 
-Principles of Maya Tool Design
-In-class assignments:
-Practice principles covered during class. Details TBA in class..
 Week 9
-
-Basic Tools with Maya Commands
+#### Topic: Basic Tools with Maya Commands
 User Interfaces
-Lab
-Week Ten
+Assignment: Lab
+
+Week 10
 
 In-class help session/work time
+Assignment: Lab
 
-Lab
 Finals
-FINAL
+Assignment: FINAL
 
 *This course calendar is subject to revision based on the needs of the class as determined by the instructor.
