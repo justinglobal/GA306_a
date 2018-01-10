@@ -223,13 +223,9 @@ Wednesday 12:30PM – 2:30PM
 Wednesday Evening
 Wednesday 5:30PM – 7:30PM
 
-Course Calendar
+### Course Calendar
 
-Week
-Topic
-Assignment
-
-Week 1
+1. Week 1
 #### Topic: Class Overview
 Introduction to 3D scripting tools
 MEL basics
@@ -238,63 +234,63 @@ Maya Command Engine and User Interface Pt. 1
 Practice principles covered during class.
 Details TBA in class.
 
-Week 2
+1. Week 2
 #### Topic: Maya Command Engine and User Interface Pt. 2
 Python Data Basics Pt. 1
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class.
 
-Week 3
+1. Week 3
 #### Topic: Python Data Basics Pt. 2
 Writing Python Programs in Maya Pt. 1
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class..
 
-Week 4
+1. Week 4
 #### Topic: Writing Python Programs in Maya Pt. 2
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class.
 
-Week 5
+1. Week 5
 #### Topic: MIDTERM
 Modules Introduction
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class.
 
-Week 6
+1. Week 6
 #### Topic: Modules
 Object-Oriented Programming Pt. 1
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class.
 
-Week 7
+1. Week 7
 #### Topic: Object-Oriented Programming Pt. 2
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class.
 
-Week 8
+1. Week 8
 #### Topic: Principles of Maya Tool Design
 #### Assignment In-class assignments:
 Practice principles covered during class.
 Details TBA in class..
 
-Week 9
+1. Week 9
 #### Topic: Basic Tools with Maya Commands
 User Interfaces
 Assignment: Lab
 
-Week 10
+1. Week 10
 
 In-class help session/work time
 Assignment: Lab
 
-Finals
+1. Finals
 Assignment: FINAL
 
 *This course calendar is subject to revision based on the needs of the class as determined by the instructor.

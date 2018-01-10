@@ -17,3 +17,7 @@
 
 1. Link to Ai Library online text - must be signed-in to online library to use:
 https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader.action?ppg=1&docID=774298&tm=1515113791573
+
+## Maya Scripting with python
+
+1. [Introduction resources](/demos/ch0)
