@@ -22,11 +22,17 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 
 1. Maya Python Command Reference: http://help.autodesk.com/cloudhelp/2016/ENU/Maya-Tech-Docs/CommandsPython/index.html
 
+1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
+1. [Homework](/notes/homework.md)
+1. [Cheat Sheet](/notes/mementopython3-english.pdf)
+
 ## Maya Scripting with python
 
 1. [Introduction resources](/demos/ch0)
 
 1. Homework week 1: Read Introduction Chapter and Chapter 1 to page 15
+
+1. Homework week 2: 
 
 ## Using Git
 
