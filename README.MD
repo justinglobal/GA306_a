@@ -49,6 +49,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Programming Philosophy](/notes/programming-philosophy.md)
 1. [Stored Program Computer](/notes/stored-program-computer.md)
 1. [Python](/notes/py.md)
+1. [IDLE IDE](/notes/py-idle-ide.md)
 1. [Values and Types](/notes/py-values-types.md)
 1. [Operators and Expressions](/notes/py-operators-expressions.md)
 1. [Variables](/notes/py-variables.md)
