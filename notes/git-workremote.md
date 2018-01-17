@@ -8,23 +8,23 @@ If you haven't already, install git (All Mac computers have git pre-installed) o
 
 Go to the Desktop (or whatever directory you want to clone into).
 
-In a web browser, find the directory on your Github.com profile that you want to clone (probably `~/cs114`) and locate the green 'clone or download' button on the right near the top. Click it and a box will appear with a link to clone that github repository.
+In a web browser, find the directory on your Github.com profile that you want to clone (probably `~/ga306`) and locate the green 'clone or download' button on the right near the top. Click it and a box will appear with a link to clone that github repository.
 
 The link should look something like this:
 
 ```bash
-https://github.com/YOUR-GITHUB-USERNAME-HERE/cs114.git
+https://github.com/YOUR-GITHUB-USERNAME-HERE/ga306.git
 ```
 
 In Terminal, type the following command:
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME-HERE/cs114.git
+git clone https://github.com/YOUR-GITHUB-USERNAME-HERE/ga306.git
 ```
 
-Git will copy the cs114 directory into the Desktop.
+Git will copy the ga306 directory into the Desktop.
 
-Use 'cd' to change directories into the new cs114 folder you just created.
+Use 'cd' to change directories into the new ga306 folder you just created.
 
 Now we need to initialize a new git _locally_ on the computer you are using, with this command:
 
