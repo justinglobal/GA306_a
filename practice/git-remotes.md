@@ -1,6 +1,6 @@
 # Practice: Git Remotes
 
-1.  Create a portfolio repo on GitHub named `cs114`.
+1.  Create a portfolio repo on GitHub named `ga306`.
     Ensure that you don't initialize it with a readme or license or gitignore.
 
 1.  Add it as a remote to your local repo.

@@ -1,6 +1,6 @@
 # Practice: Basic Git
 
-1.  Turn your `~/cs114` directory into a Git repo, if you haven't already.
+1.  Turn your `~/ga306` directory into a Git repo, if you haven't already.
 
 1.  Add and commit each Python file you've worked on thus far each in _their own commit_.
     Check the status of the index and log after each step to ensure you're doing that.

@@ -30,10 +30,6 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 
 1. [Introduction resources](/demos/ch0)
 
-1. Homework week 1: Read Introduction Chapter and Chapter 1 to page 15
-
-1. Homework week 2: 
-
 ## Using Git
 
 1. [Version Control](/notes/version-control.md)
