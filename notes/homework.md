@@ -31,19 +31,19 @@
       - Save your file as 'control_car.py'
     - Answer the following questions:
       1. Convert the following MEL statements to Python:
-        1. polyCylinder -h 3 -r 1 -sc 2 -ch 1;
-        1. polySphere -r 3 -sx 8 -sy 8 -ch 1;
-        1. polyTorus -r 1 -sr 0.5 -tw 5 -sx 20 -sy 20 -ch 1;
-        1. polyCube -w 9 -h 9 -d 9 -sx 3 -sy 3 -sz 3 -ch 1;
+          1. polyCylinder -h 3 -r 1 -sc 2 -ch 1;
+          1. polySphere -r 3 -sx 8 -sy 8 -ch 1;
+          1. polyTorus -r 1 -sr 0.5 -tw 5 -sx 20 -sy 20 -ch 1;
+          1. polyCube -w 9 -h 9 -d 9 -sx 3 -sy 3 -sz 3 -ch 1;
       1. For the following list: my_list = [2, 3, 7, 8, 9]
-        1. What is the value of my_list[1]?
-        1. What is the value of my_list[-1]?
-        1. What is the value of my_list[:-1]?
-        1. What is the value of my_list[::-1]?
-        1. What is the value of my_list[1:-1]?
+          1. What is the value of my_list[1]?
+          1. What is the value of my_list[-1]?
+          1. What is the value of my_list[:-1]?
+          1. What is the value of my_list[::-1]?
+          1. What is the value of my_list[1:-1]?
       1. Reformat the print statement to use % string formatting:
-        a = 5
-        b = 3
-        c = pow(a, b)
+          a = 5
+          b = 3
+          c = pow(a, b)
 
-        print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
+          print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
