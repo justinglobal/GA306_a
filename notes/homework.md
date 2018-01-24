@@ -19,3 +19,31 @@
         Example: epperly-ga306-week2.py
     - You will turn in 2 files, a .txt file with your answers, and a .py file with your script
     - Send homework to instructor via Slack
+
+1. Week 3
+    - Read pp. 47 - 71 (Finishes Ch.2 and first 10 pages of Ch.3)
+    - Project: Car controller
+      - Go to this page: https://github.com/justinglobal/GA306_a/blob/master/practice/create_car.py
+      - Download the 'creat_car.py' file by right clicking on the 'Raw' button near the top right, then select "Save Link as..." Save the file to your computer.
+      - Make a basic cube, whatever dimensions you choose (default size is fine).
+      - Make a "controller" that moves the car along the x/z space by rotating the cube you just made in two dimensions.
+      - Hint: You'll be connecting the car's x/z translation to the cube's x/z rotation. A demo of this behavior using the connectAttr() function can be found on p.42 of your book.
+      - Save your file as 'control_car.py'
+    - Answer the following questions:
+      1. Convert the following MEL statements to Python:
+        1. polyCylinder -h 3 -r 1 -sc 2 -ch 1;
+        1. polySphere -r 3 -sx 8 -sy 8 -ch 1;
+        1. polyTorus -r 1 -sr 0.5 -tw 5 -sx 20 -sy 20 -ch 1;
+        1. polyCube -w 9 -h 9 -d 9 -sx 3 -sy 3 -sz 3 -ch 1;
+      1. For the following list: my_list = [2, 3, 7, 8, 9]
+        1. What is the value of my_list[1]?
+        1. What is the value of my_list[-1]?
+        1. What is the value of my_list[:-1]?
+        1. What is the value of my_list[::-1]?
+        1. What is the value of my_list[1:-1]?
+      1. Reformat the print statement to use % string formatting:
+        a = 5
+        b = 3
+        c = pow(a, b)
+
+        print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
