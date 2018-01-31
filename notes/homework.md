@@ -49,6 +49,8 @@
           print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
 
 1. Week 4
+    1. Finish reading Chapter 3
+
     1. Write a function called name_objects that takes a string as an argument to name a Maya objects as they are being created.
 
     1. Write a function called rename_obj that takes a string as an argument to rename a selected Maya object.
