@@ -60,7 +60,6 @@
 
     1. Write a function called print_parents that takes a list of Maya objects as an argument and prints each node and its parent node.
       (Hint: use listRelatives command.)
-
-      1. Create four objects in the scene.  Cube, Sphere, Cylinder, Torus.
-      1. Parent Torus under Cylinder. Then parent Cylinder under Sphere. Then parent Sphere under Cube.
-      1. Use this example hierarchy for the objects required for the print_parent function.
+          1. Create four objects in the scene.  Cube, Sphere, Cylinder, Torus.
+          1. Parent Torus under Cylinder. Then parent Cylinder under Sphere. Then parent Sphere under Cube.
+          1. Use this example hierarchy for the objects required for the print_parent function.
