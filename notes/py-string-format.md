@@ -42,7 +42,9 @@ print("Total score for {0} is {1}".format(name, score))
 
 Use the new-style string formatting with explicit names:
 
+```py
 print("Total score for {n} is {s}".format(n=name, s=score))
+```
 
 The clearest two, in my opinion:
 Pass the values as parameters and print will do it:
@@ -58,7 +60,10 @@ print("Total score for ", name, " is ", score, sep='')
 
 If you're using Python 2, won't be able to use the last two because print isn't a function in Python 2. You can, however, import this behavior from __future__:
 
+```py
 from __future__ import print_function
+```
+
 Use the new f-string formatting in Python 3.6:
 
 ```py

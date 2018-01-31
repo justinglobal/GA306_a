@@ -29,7 +29,8 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 
 ## Maya Scripting with python
 
-1. [Introduction resources](/demos/ch0)
+1. [Introduction resources - create_car.py](/demos/ch0)
+1. [Chapter 3 resources - textures.py](demos/ch3)
 
 ## Using Git
 
@@ -44,6 +45,13 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. Demo: [Git Remotes](/demos/git-remotes.md)
 1. Individual Practice: [Git Remotes](/practice/git-remotes.md)
 1. [Using Github for class](/notes/git-workremote.md)
+
+## Terminal Use
+
+1. [Filesystem and Paths](/notes/filesystem.md)
+1. [Command Line Interface](/notes/cli.md)
+1. Demo: [CLI](/demos/cli.md)
+1. Individual Practice: [CLI](/practice/cli.md)
 
 ## Python Introduction
 
