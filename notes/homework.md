@@ -47,3 +47,20 @@
           c = pow(a, b)
 
           print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
+
+1. Week 4
+  1. Write a function called name_objects that takes a string as an argument to name a Maya objects as they are being created.
+
+  1. Write a function called rename_obj that takes a string as an argument to rename a selected Maya object.
+	-(Hint: use  m_sel = maya.cmds.ls(selection=True)   to assign the selected object to a variable.
+
+  1. Explain what a for loop is, and write a function that uses it to print the name of each object in a list.
+
+  1. Explain what the range command does, and write a function that uses it to print the numbers 0 through 9.
+
+  1. Write a function called print_parents that takes a list of Maya objects as an argument and prints each node and its parent node.
+	 - (Hint: use listRelatives command.)
+
+	  a) Create four objects in the scene.  Cube, Sphere, Cylinder, Torus.
+	  b) Parent Torus under Cylinder. Then parent Cylinder under Sphere. Then parent Sphere under Cube.
+	  c) Use this example hierarchy for the objects required for the print_parent function.
