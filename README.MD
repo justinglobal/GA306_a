@@ -31,7 +31,8 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 
 ## Maya Scripting with python
 
-1. [Introduction resources - create_car.py](/demos/ch0)
+1. [create_car.py](/practice/create_car.py)
+1. [Introduction resources](/demos/ch0)
 1. [Chapter 3 resources - textures.py](demos/ch3)
 
 ## Using Git
