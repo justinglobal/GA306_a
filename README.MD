@@ -1,6 +1,6 @@
 # Ai Portland GA306 Online Syllabus
 
-# [Week 4 Opening Exercise](/notes/open-week4.md)
+# [Week 5 Opening Exercise](/notes/open-week5.md)
 
 ## Mid-term in 2 weeks - details next class
 

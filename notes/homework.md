@@ -65,3 +65,7 @@
           1. Create four objects in the scene.  Cube, Sphere, Cylinder, Torus.
           1. Parent Torus under Cylinder. Then parent Cylinder under Sphere. Then parent Sphere under Cube.
           1. Use this example hierarchy for the objects required for the print_parent function.
+
+1. Week 5
+    1. Finish reading through Chapter 3
+    1. TBD
