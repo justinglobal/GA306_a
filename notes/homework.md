@@ -68,4 +68,9 @@
 
 1. Week 5
     1. Finish reading through Chapter 3
-    1. TBD
+    1. Do all homework not already submitted.
+    1. Mid-term in-class exercise next week. Open book, open internet, no collaboration. You will be given questions to answer and a programming task.
+
+
+    1. Note: If you are having trouble, remember everything you can do in Maya you can do in Maya with Python. Think about the way you might do the task without python. Everything that exists in Maya can be listed and edited using the right Python commands. Search the internet and/or use the Maya Python documentation to find the python function that does what you want to do: http://help.autodesk.com/cloudhelp/2016/ENU/Maya-Tech-Docs/CommandsPython/index.html
+    This documentation is linked on the main class github as well.
