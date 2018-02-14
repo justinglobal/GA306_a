@@ -1,6 +1,6 @@
 # Ai Portland GA306 Online Syllabus
 
-# [Week 5 Opening Exercise](/notes/open-week5.md)
+# [Week 6 Opening Exercise](/notes/open-week6.md)
 
 ## Mid-term next week! (Week6 - Feb. 13th)
 ### Mid-term details: Mid-term will be an open-book short answer and will have one exercise that will use all the basic concepts from Chapter 3.
