@@ -124,3 +124,4 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Sets](/notes/py-sets.md)
 1. [Sorting](/notes/sorting.md)
 1. [String Format printing](/notes/py-string-format.md)
+1. [Classes example](/demos/classes_example.py)
