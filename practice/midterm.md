@@ -2,6 +2,8 @@
 
 ### Short answer
 
+Save your answers in a .txt file and put it in your 'midterm' folder
+
 1. What is a grouping of statements, experessions, and commands that is used via developer-defined name and can be set to act on developer-supplied input parameters?
 1. If you need a function argument to automatically pass a defined value, what kind of argument would you use?
 1. What is the difference between using \*args and \**kwargs in a function definition?
