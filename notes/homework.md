@@ -74,3 +74,15 @@
 
     1. Note: If you are having trouble, remember everything you can do in Maya you can do in Maya with Python. Think about the way you might do the task without python. Everything that exists in Maya can be listed and edited using the right Python commands. Search the internet and/or use the Maya Python documentation to find the python function that does what you want to do: http://help.autodesk.com/cloudhelp/2016/ENU/Maya-Tech-Docs/CommandsPython/index.html
     This documentation is linked on the main class github as well.
+
+1. Week 6
+    Answer the following questions
+    1. What is a Module and what is it used for?
+    1. When does the code in an imported Module run?
+    1. What is the difference between a package and a Module?
+    1. Define 'userSetup Scripts' and 'sitecustomize Module' and describe when they would be used.
+    1. What is 'Pillow' and how would you import it? (consult google for help)
+
+    Code as instructed below
+    1. Make a package out of the 'spike' Module example code from Ch. 4 that can be imported and run on any object. Note: This requires you to make a directory (aka folder) with multiple files. Save the directory to your github and provide a link.
+        1. Hint: Set up the file structure of the package first, then work on making the Module work. Use create_car.py or any other scene to test the package.
