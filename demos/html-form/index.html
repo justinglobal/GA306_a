@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Message Sending</title>
+</head>
+
+<body>
+    <!-- All input-like elements must appear in a form. -->
+    <form>
+        <!-- Divs are used to group together elements.
+        Only use a div if there isn't a more-semantic groupign element (e.g. section). -->
+        <div>
+            <!-- The label element groups together a label and the single form control it's labeling. -->
+            <!-- Every form input element (like "input" and "textarea") should have a "type" and a "name".
+            Name is meant for the computer; it's a named slot on your paper form. -->
+            <label>Name: <input type="text" name="name"></label>
+        </div>
+        <div>
+            <!-- Textarea is not a self-closing tag. -->
+            <label>Message: <textarea name="msg"></textarea></label>
+        </div>
+        <div>
+            <label>Format:
+                <!-- Select takes multiple child option elements. -->
+                <select name="format">
+                    <!-- The "value" for each option is what is actually saved in the slot on the paper form.
+                    It is meant for the computer.
+                    Use a short-form of the desciption for the user. -->
+                    <option value="email">Email - sends the person an email from a mysterious address</option>
+                    <option value="telegram">Telegram - Dispaches a singing person to their front door</option>
+                    <option value="letter">Letter - Prints out the message and attaches it to a pidgeon</option>
+                </select>
+            </label>
+        </div>
+        <div>
+            <!-- Since labels only label a specific form control, use a fieldset and a legend to label multiple form controls, like radio options. -->
+            <fieldset>
+                <legend>Is anon?</legend>
+                <!-- Radio buttons must all share the same name, so the browser knows which to toggle.
+                The value here should be a short-form description of the selection.
+                It is, again, meant for the computer. -->
+                <label>
+                    <input type="radio" name="anon" value="1">
+                    Yes
+                </label>
+                <label>
+                    <input type="radio" name="anon" value="0">
+                    No
+                </label>
+            </fieldset>
+        </div>
+        <div>
+            <!-- The submit type is a submit button.
+            The value is the text to use on the button. -->
+            <input type="submit" value="Send Message">
+        </div>
+    </form>
+</body>
+
+</html>

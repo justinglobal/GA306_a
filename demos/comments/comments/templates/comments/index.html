@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Comments</title>
+    <link rel="stylesheet" href="{% static 'comments/site.css' %}">
+  </head>
+  <body>
+    <header>
+      <h1>Comments
+      {% if not author == None %}
+      by {{ author }}
+      {% endif %}
+      </h1>
+    </header>
+
+    <section>
+      {% for comment in comments %}
+      <article class="comment">
+        <blockquote>{{ comment.text }}</blockquote>
+        <p>- {{ comment.author }}</p>
+      </article>
+      {% endfor %}
+      {% if no_comments %}
+      <p>No comments!</p>
+      {% endif %}
+    </section>
+
+    <nav>
+      <ul>
+        <li><a href="{% url 'comment_form' %}">Post</a></li>
+        <li><a href="{% url 'index' %}">All Comments</a></li>
+        <li>
+          <form action="{% url 'index' %}" method="get">
+            <label>Search <input type="text" name="author"></label><input type="submit">
+          </form>
+        </li>
+      </ul>
+    </nav>
+  </body>
+</html>
