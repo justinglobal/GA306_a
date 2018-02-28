@@ -86,3 +86,8 @@
     Code as instructed below
     1. Make a package out of the 'spike' Module example code from Ch. 4 that can be imported and run on any object. Note: This requires you to make a directory (aka folder) with multiple files. Save the directory to your github and provide a link.
         1. Hint: Set up the file structure of the package first, then work on making the Module work. Use create_car.py or any other scene to test the package.
+
+1. Week 8
+    1. Read Ch. 4 to page 127, Read Ch. 5 to page 168
+    1. Finish all assignments not turned in
+    1. Work on final project
