@@ -1,6 +1,6 @@
 # Ai Portland GA306 Online Syllabus
 
-# [Week 8 Opening Exercise](/notes/open-week8.md)
+# [Week 9 Opening Exercise](/notes/open-week9.md)
 
 ## Intro
 
@@ -32,6 +32,8 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [create_car.py](/practice/create_car.py)
 1. [Introduction resources](/demos/ch0)
 1. [Chapter 3 resources - textures.py](demos/ch3)
+1. [Chapter 4 resources](demos/ch4)
+1. [Chapter 5 resources](demos/ch5)
 
 ## Using Git
 
