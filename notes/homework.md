@@ -89,5 +89,6 @@
     1. Work on final project
 
 1. Week 9
+    1. Run "spike.py" on your asset for the final project and screenshot the result
     1. Finish all assignments not turned in
     1. Work on final Project
