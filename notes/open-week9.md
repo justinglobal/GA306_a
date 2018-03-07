@@ -19,4 +19,4 @@ Spike Car Redux (slightly different than homework):
 note: you will need to remove print statements and the calling of the function from spike.py
 1. Import spike and then call the AddSpikes() method in the create_car.py file to make a "Spike Car"
 1. Save file that imports the spike module and builds the car as "spike_car_2.py" and save to your "open-week9" folder
-1. copy folder to github and send link to github to instructor via slack
+1. Copy  the "open-week9" folder into your ga306 folder from github (which you cloned to your desktop) and send link to github "open-week9" folder to instructor via slack

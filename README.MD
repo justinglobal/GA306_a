@@ -1,6 +1,6 @@
 # Ai Portland GA306 Online Syllabus
 
-# [Week 9 Opening Exercise](/notes/open-week9.md)
+<!-- # [Week 9 Opening Exercise](/notes/open-week9.md) -->
 
 ## Intro
 
