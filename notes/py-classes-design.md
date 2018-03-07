@@ -41,7 +41,7 @@ for measurement in rain_measurements:
 This is an especially powerful tool when you place instance of classes _within_ each other.
 
 ```py
-class CodeGuildClass:
+class AiClass:
     def __init__(self, start_date, students):
         self.start_date = start_date
         self.students = students
@@ -50,9 +50,9 @@ class Student:
     def __init__(self, name):
         self.name = name
 
-me = Student('David')
+me = Student('Alex')
 you = Student('Helen')
-this_class = CodeGuildClass('2016-01-01', [me, you])
+this_class = AiClass('2018-03-06', [me, you])
 
 num_students = len(this_class.students)
 num_students  #> 2
