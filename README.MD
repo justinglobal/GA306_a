@@ -1,6 +1,6 @@
 # Ai Portland GA306 Online Syllabus
 
-# [Week 10 Opening Exercise](/notes/open-week10.md)
+# [Final Project Submission Guidelines](/notes/open-week12.md)
 
 ## FINAL EXAM DAY/TIME
 ## Tuesday 5:30PM – 7:30PM – 3/20/2018
