@@ -20,12 +20,12 @@ else:
 dashed_phone = '-'.join(phone_parts)
 
 if has_area_code == True:
-    fancy_phone = '({}) {}-{}'.format(phone_parts[0], phone_parts[1], phone_parts[2])
+    parens_phone = '({}) {}-{}'.format(phone_parts[0], phone_parts[1], phone_parts[2])
 else:
-    fancy_phone = dashed_phone
+    parens_phone = dashed_phone
 
 
 
 # 4. Output
 print(dashed_phone)
-print(fancy_phone)
+print(parens_phone)
