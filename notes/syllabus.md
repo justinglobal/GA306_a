@@ -1,12 +1,12 @@
 ## GA306 section A Scripting for 3D Tools Tuesday 6PM – 10PM
 
-### Course Syllabus – Winter 2018
+### Course Syllabus – Summer 2018
 
 Meeting Times and Location
 Tuesday 6PM – 10PM - Room 202
 
 FINAL EXAM DAY/TIME
-Tuesday 5:30PM – 7:30PM – 3/20/2018
+Tuesday 5:30PM – 7:30PM – 9/18/2018
 
 Instructor Name
 Justin Epperly
@@ -49,44 +49,39 @@ Materials and Supplies
 Students will acquire materials and supplies as needed.
 
 Holidays (school closed):
- 
-WEEK 2
-Monday, January 15, 2018 Martin Luther King Day – School Closed
- 
-WEEK 7
-Monday, February 19, 2018 President’s Day – School Closed
+
+WEEK 9
+Monday, September 3 (Labor Day) – School Closed
 
 Important Dates:
 
 WEEK 1
-Monday (1/08/2018):		Winter Term 11-week Session Begins
-Friday (1/12/2018):   Graduation Application due for WI18 Grads
+Monday (7/9/2018):	Summer I Begins
+Friday (7/13/2018):	Graduation Application due for SU’18 Grads
 
 WEEK 2
-Tuesday  (1/16/2018):  Last day of Schedule Adjustment Period 5PM Deadline
-
-WEEK 4
-	All Week ** Student Satisfaction Survey
-					(Instructors: reserve 30 minutes during scheduled class)
+Monday (7/16/2018):	Last day of Schedule Adjustment Period
 
 WEEK 6
-Thursday (2/15/2018):  Winter Mid-Quarter Courses Begin
+Thursday (8/16/2018):	Summer II Mid-Quarter Begins
 
 WEEK 7
-Monday (2/19/2018):	Spring 2018 Registration Begins
+Monday (8/20/2018):	Fall 2018 Registration Begins
+Monday (8/20/2018):	Last day of Schedule Adjustment Period for Mid-quarter
 
 WEEK 9
-Monday (3/5/2018):  IDEA Survey Begins (selected classes)
-Friday (3/9/2018):  Last day to Drop with a “W”
+Tuesday (9/4/2018):	IDEA Survey Begins (selected classes)
+Friday (9/7/2018):	Last day to Drop with a “W”
 
 WEEK 10
-Friday (3/16/2018): Last day to submit Incomplete Grade form
+Friday (9/14/2018):	Last day to submit Incomplete Grade form
 
 WEEK 11
-Monday (3/19/2018):  WI18 Finals begin
-Friday (3/23/2018):  Last day for Grads to submit Diploma Clearance Form for the FA term
-Friday (3/23/2018):  Portfolio Show
-Saturday (3/24/2018): Quarter Ends
+Monday (9/17/2018):	Finals begin
+Friday (9/21/2018):	Last day for Grads to submit Diploma Clearance Form for the FA term
+Friday (9/21/2018):		Portfolio Show
+Saturday (9/22/2018): Quarter Ends
+
 
 Labeling Assignments
 All assignments must be saved with filenames as follows:
@@ -120,7 +115,7 @@ B
 C-
 
 Grade percentage/point breakdown:
-Weekly Assignments = 30%
+Weekly Assignments / Quizzes = 30%
 Weekly Participation = 30%
 Midterm = 10%
 Final Project = 30%
@@ -186,42 +181,24 @@ Grade Changes
 All grade changes must be approved by the relevant Academic Department Director and the Dean of Academic Affairs, and must be submitted no later than the end of the second week of the following academic term.
 
 Final Exam Schedule
-Class Meeting
-Final Exam Meeting
-Class Meeting
-Final Exam Meeting
-Monday Morning
-Monday 8AM – 10AM
-Thursday Morning
-Thursday 8AM – 10AM
-Monday Afternoon
-Monday 12:30PM  - 2:30PM
-Thursday Afternoon
-Monday 2:45PM – 4:45PM
-Monday Evening
-Monday 5:30PM – 7:30PM
-Thursday Evening
-Monday 7:45PM – 9:45PM
-Tuesday Morning
-Tuesday 8AM – 10AM
-Friday Morning
-Tuesday 10:15AM – 12:15AM
-Tuesday Afternoon
-Tuesday 12:30PM – 2:30PM
-Friday Afternoon
-Tuesday 2:45PM – 4:45PM
-Tuesday Evening
-Tuesday 5:30PM – 7:30PM
-Friday Evening
-Wednesday 2:45PM – 4:45PM
-Wednesday Morning
-Wednesday 8AM – 10AM
-Saturday Morning
-Tuesday 7:45PM – 9:45PM
-Wednesday Afternoon
-Wednesday 12:30PM – 2:30PM
-Wednesday Evening
-Wednesday 5:30PM – 7:30PM
+Class Meeting     Exam Meeting
+Monday Morning    Monday 8:00 - 10:00 am
+Monday Afternoon	Monday 12:30 - 2:30 pm
+Monday Evening	  Monday 5:30 - 7:30 pm
+Tuesday Morning	  Tuesday 8:00 - 10:00 am
+Tuesday Afternoon	Tuesday 12:30 - 2:30 pm
+Tuesday Evening	  Tuesday 5:30 - 7:30 pm
+Wednesday Morning	Wednesday 8:00 - 10:00 am
+Wednesday After.	Wednesday 12:30 - 2:30 pm
+Wednesday Evening	Wednesday 5:30 - 7:30 pm
+Thursday Morning	Thursday 8:00 - 10:00 am
+Thursday After. 	Monday 2:45 - 4:45 pm
+Thursday Evening	Monday 7:45 - 9:45 pm
+Friday Morning		Tuesday 10:15am - 12:15 pm
+Friday Afternoon	Tuesday 2:45 - 4:45 pm
+Friday Evening		Wednesday 2:45 - 4:45 pm
+Saturday Morning	Tuesday 7:45 - 9:45 pm
+
 
 ### Course Calendar
 

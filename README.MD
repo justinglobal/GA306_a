@@ -1,14 +1,8 @@
 # Ai Portland GA306 Online Syllabus
 
-# [Final Project Submission Guidelines](/notes/open-week12.md)
-
-## FINAL EXAM DAY/TIME
-## Tuesday 5:30PM – 7:30PM – 3/20/2018
-## In the same room
-
 ## Intro
 
-1. Welcome to 3D Scripting!
+1. Welcome to Scripting for 3D tools!
 
 1. [Course Syllabus](/notes/syllabus.md)
 
