@@ -6,9 +6,9 @@
 
 1. [Course Syllabus](/notes/syllabus.md)
 
-1. Link to slack channel: https://ga306-wi18.slack.com
+1. Link to slack channel: https://ga306-su2018.slack.com/
 
-1. Invitation to slack channel: https://join.slack.com/t/ga306-wi18/shared_invite/enQtMjk1OTE1NTEyOTI5LTk4ZmUyODMzMWQ5MzU0ZWYwOTFlZjkzMDU4OTg3NmE3YTlkNTQ3NWNiOGY0YTU0YjA3NGQ5OWU2ZGQwODg1Njg
+1. Invitation to slack channel: https://join.slack.com/t/ga306-su2018/shared_invite/enQtMzk1MDA0NDYyNDAwLTc1YTBlNmNlMmRlN2ExNWJiMThkM2IwMjM5OTVmZjAxOThkOGZiZTA0ZmIwMDkxNWNmZGM4ZGJhM2NmODdkZGI
 
 1. Link to online text official website (for downloading resources): http://www.maya-python.com/
 
@@ -28,12 +28,12 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 ## Maya Scripting with python
 
 1. [create_car.py](/practice/create_car.py)
-1. [Introduction resources](/demos/ch0)
+<!-- 1. [Introduction resources](/demos/ch0)
 1. [Chapter 3 resources - textures.py](demos/ch3)
 1. [Chapter 4 resources](demos/ch4)
-1. [Chapter 5 resources](demos/ch5)
+1. [Chapter 5 resources](demos/ch5) -->
 
-## Using Git
+<!-- ## Using Git
 
 1. [Version Control](/notes/version-control.md)
 1. [Basic Git](/notes/git-basic.md)
@@ -45,7 +45,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Git Basic Workflow](/notes/git-workflow-basic.md)
 1. Demo: [Git Remotes](/demos/git-remotes.md)
 1. Individual Practice: [Git Remotes](/practice/git-remotes.md)
-1. [Using Github for class](/notes/git-workremote.md)
+1. [Using Github for class](/notes/git-workremote.md) -->
 
 ## Terminal Use
 
@@ -70,7 +70,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Terminal IO](/notes/py-io-terminal.md)
 1. Demo: [Greeting](/demos/greeting.md)
 1. Practice: [Space Dungeon Intro](/practice/spacedungeon-01.md)
-1. [Comments](/notes/py-comments.md)
+<!-- 1. [Comments](/notes/py-comments.md)
 1. [Basic Variable Naming](/notes/naming-variables-basic.md)
 1. [Python Style](/notes/py-style.md)
 1. [Module Docstrings](/notes/py-docstrings-module.md)
@@ -146,4 +146,4 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Pytest](/notes/py-pytest.md)
 1. [Generators and Yield](/notes/py-generators.md)
 1. [Decorators](/notes/py-decorators.md)
-1. [Vararg and Kwarg Functions](/notes/py-functions-vararg-kwarg.md)
+1. [Vararg and Kwarg Functions](/notes/py-functions-vararg-kwarg.md) -->

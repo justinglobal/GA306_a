@@ -1,6 +1,6 @@
-1. Week 1 - Read Introduction and Chapter 1 of text
+1. Week 1 Read Introduction and Chapter 1 of text
 
-1. Week 2
+<!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46
     - Answer the following questions and save in .txt format
         1. Name the four Maya programming interfaces.
@@ -91,4 +91,4 @@
 1. Week 9
     1. Run "spike.py" on your asset for the final project and screenshot the result
     1. Finish all assignments not turned in
-    1. Work on final Project
+    1. Work on final Project -->
