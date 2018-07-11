@@ -3,7 +3,7 @@ import maya.cmds
 
 def addSpikes(obj):
     """This function adds spikes to a polygon object."""
-    try: polycount = maya.cmds.polyEvaluate(obj, face=True)
+    try: polycount = mya.cmds.polyEvaluate(obj, face=True)
     except: raise
     for i in range(0, polycount):
         face = '%s.f[%s]'%(obj, i)
