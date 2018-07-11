@@ -27,9 +27,9 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 
 ## Maya Scripting with python
 
-1. [create_car.py](/practice/create_car.py)
-<!-- 1. [Introduction resources](/demos/ch0)
-1. [Chapter 3 resources - textures.py](demos/ch3)
+<!-- 1. [create_car.py](/practice/create_car.py) -->
+1. [Introduction resources](/demos/ch0)
+<!-- 1. [Chapter 3 resources - textures.py](demos/ch3)
 1. [Chapter 4 resources](demos/ch4)
 1. [Chapter 5 resources](demos/ch5) -->
 
