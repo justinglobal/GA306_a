@@ -1,6 +1,6 @@
 ### Terms List
 
-####Intro and Ch. 1
+#### Intro and Ch. 1
 
 MEL
 
