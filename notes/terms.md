@@ -1,6 +1,56 @@
 ### Terms List
 
-#### Introduction
+####Intro and Ch. 1
+
+MEL
+
+Python
+
+GUI
+
+script editor
+
+C++
+
+API
+
+Command Line
+
+Command Documentation
+
+Dependency Graph
+
+node
+
+shape node
+
+transform node
+
+flag argument
+
+object type
+
+number
+
+string
+
+list
+
+tuple
+
+boolean
+
+command mode
+
+create mode
+
+edit mode
+
+query mode
+
+
+
+<!-- #### Introduction
 
 programming
 
@@ -152,4 +202,4 @@ key
 
 value
 
-key/value pair
+key/value pair -->

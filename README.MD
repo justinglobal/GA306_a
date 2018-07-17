@@ -25,6 +25,10 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Homework](/notes/homework.md)
 1. [Cheat Sheet](/notes/mementopython3-english.pdf)
 
+## Terms List
+
+1. [Terms list](/notes/terms.md)
+
 ## Maya Scripting with python
 
 <!-- 1. [create_car.py](/practice/create_car.py) -->
