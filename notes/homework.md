@@ -1,5 +1,6 @@
-1. Week 1 Read Introduction and Chapter 1 of text
-  1. Do Chapter 1 Terms, turn in on slack
+1. Week 1
+  - Read Introduction and Chapter 1 of text
+  - Do Chapter 1 Terms, turn in on slack
 
 <!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46
