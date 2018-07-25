@@ -21,7 +21,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 
 1. Another link to Ai Library online text (if link above doesn't work) - must be signed-in to online library to use: https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/detail.action?docID=774298&query=maya%20python%20for%20games%20and%20film
 
-1. Maya Python Command Reference: http://help.autodesk.com/cloudhelp/2016/ENU/Maya-Tech-Docs/CommandsPython/index.html
+1. Maya Python Command Reference: http://help.autodesk.com/cloudhelp/2018/ENU/Maya-Tech-Docs/CommandsPython/index.html
 
 1. Mac keyboard shortcuts: http://i.imgur.com/7YHrbj4.png
 1. [Homework](/notes/homework.md)
