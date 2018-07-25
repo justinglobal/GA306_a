@@ -1,6 +1,6 @@
 # Practice: Wall Painting
 
-Save your solution as `practice/wall-painting.py`.
+Save your solution as `wall-painting.py`.
 
 All our friends are re-painting one wall of their rooms.
 They want us to figure out how much it's going to cost.
