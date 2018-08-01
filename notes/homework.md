@@ -49,6 +49,8 @@
 
         - Connect the locator Y-translate attribute to the sphere scale (Hint: use the connectAttr() command.)
 
+1. Week 4 - Read Chapter 3 up to page 80
+
 <!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46
     - Answer the following questions and save in .txt format
