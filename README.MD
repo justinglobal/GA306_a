@@ -16,6 +16,8 @@
 
 1. [pdf files of text](/text)
 
+1. Link to Automate the Boring Stuff online text: https://automatetheboringstuff.com
+
 1. Link to Ai Library online text - must be signed-in to online library to use:
 https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader.action?ppg=1&docID=774298&tm=1515113791573
 

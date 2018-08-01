@@ -35,7 +35,9 @@
 
     1. Reformat the print statement to use % string formatting:
     	a = 5
+
     	b = 3
+
       c = pow(a, b)
 
     print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
