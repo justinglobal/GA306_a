@@ -1,6 +1,14 @@
 Welcome to Class!
 
-GA306 Week 4
+GA306 Week 5
+
+Write a script that creates a sphere and a cube. Then connect the translation of the sphere to the rotation of the cube.
+
+Save your script as rotate.py and send to instructor via slack.
+
+Hint: Use the connectAttr() function described on p. 42 of your text.
+
+<!-- GA306 Week 4
 
 Write a program that uses a For Loop to print your name plus the following string: " awesome"
 
@@ -13,7 +21,7 @@ t awesome
 i awesome
 n awesome
 
-Save your file as "awesome.py" and send to instructor via slack.
+Save your file as "awesome.py" and send to instructor via slack. -->
 
 <!-- GA-306 Week 3
 
