@@ -53,7 +53,7 @@
 
 1. Week 5 - Answer the following questions:
 
-  The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
+  - The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
 
     1. Write a function called rename_obj that takes a string as an argument to rename a selected Maya object.
       -(Hint: use  my_selection = maya.cmds.ls(selection=True) This assigns any selected objects in the scene to a list called “my_selection”.)
