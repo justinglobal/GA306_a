@@ -64,13 +64,13 @@ The goal of this assignment is for you to become familiar with using variables, 
   1. Explain what the range command does, and write a function that uses it to print the numbers 0 through 9.
 
   1. Write a function called print_parents that takes a list of Maya objects as an arguments and prints each node and its parent node.
-        - (Hint: use listRelatives command.)
-    1. Create four objects in the scene.  Cube, Sphere, Cylinder, Torus.
-    1. Parent Torus under Cylinder. Then parent Cylinder under Sphere. Then parent Sphere under Cube.
-        - ( Torus > Cylinder > Sphere > Cube)
-    1. Use this example hierarchy for the objects required for the print_parent function.
-    1. Format a print statement using % notation that list the selected object and all of its parent nodes.
-        - (eg: “Selected Geometry: <pSphere1> , Parents: <pCube1>”)
+          - (Hint: use listRelatives command.)
+      1. Create four objects in the scene.  Cube, Sphere, Cylinder, Torus.
+      1. Parent Torus under Cylinder. Then parent Cylinder under Sphere. Then parent Sphere under Cube.
+      1. Use the example hierarchy below for the objects required for the print_parent function.
+          - ( Torus > Cylinder > Sphere > Cube)
+      1. Format a print statement using % notation that list the selected object and all of its parent nodes.
+          - (eg: “Selected Geometry: <pSphere1> , Parents: <pCube1>”)
 
 
   1. ADVANCED (Optional)
