@@ -75,15 +75,15 @@ The goal of this assignment is for you to become familiar with using variables, 
 
   1. ADVANCED (Optional)
 
-    1. Write a function called get_poly_info that takes a Maya node as an argument and returns a dictionary with keys vertex, edge, and face and values are the number of each in that piece of geometry.  (Hint: the Maya command that gives you that information is called polyEvaluate.)
+      1. Write a function called get_poly_info that takes a Maya node as an argument and returns a dictionary with keys vertex, edge, and face and values are the number of each in that piece of geometry.  (Hint: the Maya command that gives you that information is called polyEvaluate.)
 
 
 
-    1. Write a function called find_center that takes a Maya geometry node as an argument.  Since you should know how to get the number of vertices in a mesh, use this number to create a for range loop to find the average/center position of the mesh.  (Hint: xform(<geom.vertex>, q=True, ws=True, t=True))
+      1. Write a function called find_center that takes a Maya geometry node as an argument.  Since you should know how to get the number of vertices in a mesh, use this number to create a for range loop to find the average/center position of the mesh.  (Hint: xform(<geom.vertex>, q=True, ws=True, t=True))
 
 
 
-    1. Using list comprehension, create a Python list that consists of all meshes with more than 100 faces.  (Hint: use the ls command type arg to get the meshes and the polyEvaluate to get the number of faces)
+      1. Using list comprehension, create a Python list that consists of all meshes with more than 100 faces.  (Hint: use the ls command type arg to get the meshes and the polyEvaluate to get the number of faces)
 
 <!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46
