@@ -85,6 +85,11 @@ The goal of this assignment is for you to become familiar with using variables, 
 
       1. Using list comprehension, create a Python list that consists of all meshes with more than 100 faces.  (Hint: use the ls command type arg to get the meshes and the polyEvaluate to get the number of faces)
 
+1. Week 7
+    1. Finish all homework not turned in
+    1. Turn in all homework before next class
+    1. Due Week 8 : Define all terms in [terms list](notes/terms.md)
+    1. Quiz over terms (15 question short answer) Week 8
 <!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46
     - Answer the following questions and save in .txt format
