@@ -34,13 +34,14 @@
         - What is the value of my_list[1:-1]?
 
     1. Reformat the print statement to use % string formatting:
+
         a = 5
 
     	  b = 3
 
         c = pow(a, b)
 
-    print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
+        print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
 
     1. Write a short Python script that does the following:
     	 - Create a sphere
