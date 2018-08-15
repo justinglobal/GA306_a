@@ -34,26 +34,26 @@
         - What is the value of my_list[1:-1]?
 
     1. Reformat the print statement to use % string formatting:
-    	a = 5
+        a = 5
 
-    	b = 3
+    	  b = 3
 
-      c = pow(a, b)
+        c = pow(a, b)
 
     print(str(a) + “ to the “ + str(b) + “ power is “ + str(c))
 
     1. Write a short Python script that does the following:
     	 - Create a sphere
 
-    	  - Create a locator
+    	 - Create a locator
 
-        - Connect the locator Y-translate attribute to the sphere scale (Hint: use the connectAttr() command.)
+       - Connect the locator Y-translate attribute to the sphere scale (Hint: use the connectAttr() command.)
 
 1. Week 4 - Read Chapter 3 up to page 80
 
 1. Week 5 - Answer the following questions:
 
-    The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
+      The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
 
     1. Write a function called rename_obj that takes a string as an argument to rename a selected Maya object.
         - (Hint: use  my_selection = maya.cmds.ls(selection=True) This assigns any selected objects in the scene to a list called “my_selection”.)
