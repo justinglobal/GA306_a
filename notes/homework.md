@@ -1,6 +1,6 @@
 1. Week 1
-  - Read Introduction and Chapter 1 of text
-  - Do Chapter 1 Terms, turn in on slack
+    - Read Introduction and Chapter 1 of text
+    - Do Chapter 1 Terms, turn in on slack
 
 1. Week 3 (due Week 4)
 
