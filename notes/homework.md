@@ -89,7 +89,7 @@
 1. Week 7
     1. Finish all homework not turned in
     1. Turn in all homework before next class
-    1. Due Week 8 : Define all terms in [terms list](notes/terms.md)
+    1. Due Week 8 : Define all terms in [Terms list](/notes/terms.md)
     1. Quiz over terms (15 question short answer) Week 8
 <!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46
