@@ -1,12 +1,27 @@
 Welcome to Class!
 
-GA306 Week 5
+GA306 - Week 7
+
+🐍 Write me a function 🐍
+
+Using your own asset in Maya, write a function that selects and transforms objects
+in your scene.
+
+Any transformation is fine, including things like its name, color, etc.
+
+If you do not have an asset you'd like to work on, create some basic shapes and
+connect their rotation and translation attributes in a novel way.
+
+The goal is to do a quick bit of programming to get you back into the right
+head-space for class.
+
+<!-- GA306 Week 5
 
 Write a script that creates a sphere and a cube. Then connect the translation of the sphere to the rotation of the cube.
 
 Save your script as rotate.py and send to instructor via slack.
 
-Hint: Use the connectAttr() function described on p. 42 of your text.
+Hint: Use the connectAttr() function described on p. 42 of your text. -->
 
 <!-- GA306 Week 4
 
