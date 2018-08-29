@@ -54,8 +54,3 @@ def assemble_car(name, body, tires):
 if __name__ == "__main__":
     name = create_car("test_car")
     print("Car created: {0}".format(name))
-
-# myCube = maya.cmds.polyCube()[0]
-#
-# maya.cmds.connectAttr(myCube+'.rx', name+'.tz')
-# maya.cmds.connectAttr(myCube+'.rz', name+'.tx')
