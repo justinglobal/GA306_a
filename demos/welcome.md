@@ -1,6 +1,32 @@
 Welcome to Class!
 
-GA306 - Week 7
+GA306 - Week 8
+Terms quiz today!
+
+🐍For loop fun🐍
+
+Write a function that takes in a list of strings and appends ".function"
+and a number counting up from 1 for each item in the list and prints each
+item as it iterates.
+
+So, if your list was like this example:
+
+your_list = ['left-arm', 'right-arm', 'left-leg', 'right-leg']
+
+your function would produce an output something like:
+
+left-arm.function1
+right-arm.function2
+left-leg.function3
+right-leg.function4
+
+and also print the entire new list.
+
+Save file as "loopfun.py" and send to instructor via slack.
+
+Bonus: use the "enumerate" function in your answer.
+
+<!-- GA306 - Week 7
 
 🐍 Write me a function 🐍
 
@@ -13,7 +39,7 @@ If you do not have an asset you'd like to work on, create some basic shapes and
 connect their rotation and translation attributes in a novel way.
 
 The goal is to do a quick bit of programming to get you back into the right
-head-space for class.
+head-space for class. -->
 
 <!-- GA306 Week 5
 
