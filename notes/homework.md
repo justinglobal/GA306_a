@@ -102,6 +102,9 @@
       - Hint: You'll be connecting the car's x/z translation to the cube's x/z rotation. A demo of this behavior using the connectAttr() function can be found on p.42 of your book.
       - Save your file as 'control_car.py'
 
+1. Week 9
+    - Read Chapter 4 Modules to page 128.
+
 
 <!-- 1. Week 2
     - Finish reading Chapter 1, read Chapter 2 to page 46

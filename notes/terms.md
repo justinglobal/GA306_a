@@ -100,6 +100,20 @@ local/global variable
 
 exception
 
+### Chapter 4
+
+Module
+
+scope
+
+package
+
+__main__
+
+default attributes
+
+import
+
 <!-- #### Introduction
 
 programming
