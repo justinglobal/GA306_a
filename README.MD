@@ -41,7 +41,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 <!-- 1. [Chapter 4 resources](demos/ch4)
 1. [Chapter 5 resources](demos/ch5) -->
 
-<!-- ## Using Git
+## Using Git
 
 1. [Version Control](/notes/version-control.md)
 1. [Basic Git](/notes/git-basic.md)
@@ -53,7 +53,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Git Basic Workflow](/notes/git-workflow-basic.md)
 1. Demo: [Git Remotes](/demos/git-remotes.md)
 1. Individual Practice: [Git Remotes](/practice/git-remotes.md)
-1. [Using Github for class](/notes/git-workremote.md) -->
+1. [Using Github for class](/notes/git-workremote.md)
 
 ## Terminal Use
 
