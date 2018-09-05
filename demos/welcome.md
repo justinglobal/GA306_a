@@ -1,6 +1,22 @@
 Welcome to Class!
 
-GA306 - Week 8
+GA-306 Week 9
+
+🐍Functions with Arguments!🐍
+
+Write a function that creates a cube, a sphere, and a cylinder. Use default
+arguments to make the default value for the diameter of the sphere and Cylinder
+and the dimensions of the cube to be 4.
+
+Hint: write the code to make the objects first, then wrap them in a function
+with default arguments.
+
+Bonus: Make your function able to make all the standard shapes by default
+with a 'width' of 4, with an argument that allows the user to specify the
+number of each object to create. Ex: using this function, a user could create
+2 spheres, 1 cube, and 5 cylinders by changing the default argument.
+
+<!-- GA306 - Week 8
 Terms quiz today!
 
 🐍For loop fun🐍
@@ -24,7 +40,7 @@ and also print the entire new list.
 
 Save file as "loopfun.py" and send to instructor via slack.
 
-Bonus: use the "enumerate" function in your answer.
+Bonus: use the "enumerate" function in your answer. -->
 
 <!-- GA306 - Week 7
 
