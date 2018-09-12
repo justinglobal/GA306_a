@@ -38,8 +38,8 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [create_car.py](/practice/create_car.py)
 1. [Introduction resources](/demos/ch0)
 1. [Chapter 3 resources - textures.py](demos/ch3)
-<!-- 1. [Chapter 4 resources](demos/ch4)
-1. [Chapter 5 resources](demos/ch5) -->
+1. [Chapter 4 resources](demos/ch4)
+1. [Chapter 5 resources](demos/ch5)
 
 ## Using Git
 
@@ -128,7 +128,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [Sets](/notes/py-sets.md)
 1. [Sorting](/notes/sorting.md)
 1. [String Format printing](/notes/py-string-format.md)
-<!-- 1. [Classes example](/demos/classes_example.py)
+1. [Classes example](/demos/classes_example.py)
 1. [Tuple Unpacking](/notes/py-tuples-unpacking.md)
 1. [Reducing](/notes/reducing.md)
 1. [Advanced Variable Naming](/notes/naming-variables-adv.md)

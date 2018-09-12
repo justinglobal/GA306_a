@@ -1,6 +1,14 @@
 Welcome to Class!
 
-GA-306 Week 9
+🐍Week 10 is here!🐍
+
+1. clone your ga306 github folder onto your desktop
+
+1. complete any homework not turned in yet
+
+1. work on final project
+
+<!-- GA-306 Week 9
 
 🐍Functions with Arguments!🐍
 
@@ -14,7 +22,7 @@ with default arguments.
 Bonus: Make your function able to make all the standard shapes by default
 with a 'width' of 4, with an argument that allows the user to specify the
 number of each object to create. Ex: using this function, a user could create
-2 spheres, 1 cube, and 5 cylinders by changing the default argument.
+2 spheres, 1 cube, and 5 cylinders by changing the default argument. -->
 
 <!-- GA306 - Week 8
 Terms quiz today!
