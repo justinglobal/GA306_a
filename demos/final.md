@@ -15,3 +15,10 @@ associated .py files to github as 'noise_spike_car.py'.
     - [link to spike module](/demos/ch4)
 
 1. Hint: First, understand the basics of what each function does - **look at the inputs via function argument and outputs via return value**, then edit the functions from create_car.py to use the proper function from polynoise.py to apply the transformation.
+
+1. If you are doing your own final project:
+    - Put all your final project files into one folder called "final_project"
+    - Upload final_project directory to GitHub
+    - Send link to your github to instructor via Slack
+    - Remember: your final project should state in a few sentences what it does
+      and have basic instructions for the user to implement your code. 
