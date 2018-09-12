@@ -4,6 +4,8 @@
 
 ### [Opening Exercise](demos/welcome.md)
 
+### [Final Project info](demos/final.md)
+
 1. Welcome to Scripting for 3D tools!
 
 1. [Course Syllabus](/notes/syllabus.md)

@@ -104,6 +104,7 @@
 
 1. Week 9
     - Read Chapter 4 Modules to page 128.
+    - Define Ch. 4 terms 
 
 
 <!-- 1. Week 2
