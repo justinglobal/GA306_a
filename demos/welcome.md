@@ -9,6 +9,8 @@ or go to "Chapter 4 Resources" on main gethub page
 
 1. complete any homework not turned in yet
 
+1. define chapter 4 terms [(found here)](/notes/terms.md)
+
 1. work on final project
 
 <!-- GA-306 Week 9
