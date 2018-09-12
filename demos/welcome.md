@@ -4,6 +4,9 @@ Welcome to Class!
 
 1. clone your ga306 github folder onto your desktop
 
+1. download the "spike.py" file from class github here: https://github.com/justinglobal/GA306_a/tree/master/demos/ch4
+or go to "Chapter 4 Resources" on main gethub page
+
 1. complete any homework not turned in yet
 
 1. work on final project
