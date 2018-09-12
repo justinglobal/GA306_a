@@ -1,6 +1,8 @@
 ### Final Project for GA306
 
 1. Open a New Scene in Maya and load polynoise.py and create_car.py into your workspace in their own tabs.
+    - [link to polynoise.py](/demos/ch0)
+    - [link to create_car.py](/practice/create_car.py)
 
 1. In a new tab, combine and adapt polynoise.py and create_car.py into a new .py file that applies the polynoise transformation to the 5 polygons when making a 'car' using the create_car.py file.
 
