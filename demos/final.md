@@ -12,5 +12,6 @@
 
 1. Bonus: Use the Spike Module on your 'noise car'. Save your project folder with
 associated .py files to github as 'noise_spike_car.py'.
+    - [link to spike module](/demos/ch4)
 
 1. Hint: First, understand the basics of what each function does - **look at the inputs via function argument and outputs via return value**, then edit the functions from create_car.py to use the proper function from polynoise.py to apply the transformation.
