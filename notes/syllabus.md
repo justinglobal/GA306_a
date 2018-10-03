@@ -1,12 +1,13 @@
-## GA306 section A Scripting for 3D Tools Tuesday 6PM – 10PM
+## GA306 section A Scripting for 3D Tools Wednesday 6PM – 10PM
 
-### Course Syllabus – Summer 2018
+### Course Syllabus – Fall 2018
 
 Meeting Times and Location
-Tuesday 6PM – 10PM - Room 202
+Wednesday 6PM – 10PM - Room 202
 
 FINAL EXAM DAY/TIME
-Tuesday 5:30PM – 7:30PM – 9/18/2018
+TBD
+<!-- Tuesday 5:30PM – 7:30PM – 9/18/2018 -->
 
 Instructor Name
 Justin Epperly
@@ -29,7 +30,7 @@ Prerequisites
 MA391 (Character Setup), GA131
 
 Course Length
-Monday 01/08/18 – Saturday 03/24/18
+Monday 10/3/18 – Saturday 12/00/18
 
 Contact Hours
 32-42
@@ -48,9 +49,9 @@ Maya Python for games and film: a complete reference for the Maya Python and the
 Materials and Supplies
 Students will acquire materials and supplies as needed.
 
-Holidays (school closed):
+Holidays (school closed): TBD
 
-WEEK 9
+<!-- WEEK 9
 Monday, September 3 (Labor Day) – School Closed
 
 Important Dates:
@@ -80,7 +81,7 @@ WEEK 11
 Monday (9/17/2018):	Finals begin
 Friday (9/21/2018):	Last day for Grads to submit Diploma Clearance Form for the FA term
 Friday (9/21/2018):		Portfolio Show
-Saturday (9/22/2018): Quarter Ends
+Saturday (9/22/2018): Quarter Ends -->
 
 
 Labeling Assignments
@@ -180,8 +181,8 @@ If students feel that a concern or a complaint has not been adequately resolved 
 Grade Changes
 All grade changes must be approved by the relevant Academic Department Director and the Dean of Academic Affairs, and must be submitted no later than the end of the second week of the following academic term.
 
-Final Exam Schedule
-Class Meeting     Exam Meeting
+Final Exam Schedule TBD
+<!-- Class Meeting     Exam Meeting
 Monday Morning    Monday 8:00 - 10:00 am
 Monday Afternoon	Monday 12:30 - 2:30 pm
 Monday Evening	  Monday 5:30 - 7:30 pm
@@ -197,7 +198,7 @@ Thursday Evening	Monday 7:45 - 9:45 pm
 Friday Morning		Tuesday 10:15am - 12:15 pm
 Friday Afternoon	Tuesday 2:45 - 4:45 pm
 Friday Evening		Wednesday 2:45 - 4:45 pm
-Saturday Morning	Tuesday 7:45 - 9:45 pm
+Saturday Morning	Tuesday 7:45 - 9:45 pm -->
 
 
 ### Course Calendar

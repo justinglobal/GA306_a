@@ -1,6 +1,8 @@
 Welcome to Class!
 
-🐍Week 10 is here!🐍
+
+
+<!-- 🐍Week 10 is here!🐍
 
 1. clone your ga306 github folder onto your desktop
 
@@ -11,7 +13,7 @@ or go to "Chapter 4 Resources" on main gethub page
 
 1. define chapter 4 terms [(found here)](/notes/terms.md)
 
-1. work on final project
+1. work on final project -->
 
 <!-- GA-306 Week 9
 

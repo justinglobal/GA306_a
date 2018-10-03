@@ -2,9 +2,9 @@
 
 ## Intro
 
-### [Opening Exercise](demos/welcome.md)
+<!-- ### [Opening Exercise](demos/welcome.md)
 
-### [Final Project info](demos/final.md)
+### [Final Project info](demos/final.md) -->
 
 1. Welcome to Scripting for 3D tools!
 
@@ -20,10 +20,10 @@
 
 1. Link to Automate the Boring Stuff online text: https://automatetheboringstuff.com
 
-1. Link to Ai Library online text - must be signed-in to online library to use:
-https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader.action?ppg=1&docID=774298&tm=1515113791573
+1. Another link to Ai Library online text (this one usually works) - must be signed-in to online library to use: https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/detail.action?docID=774298&query=maya%20python%20for%20games%20and%20film
 
-1. Another link to Ai Library online text (if link above doesn't work) - must be signed-in to online library to use: https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/detail.action?docID=774298&query=maya%20python%20for%20games%20and%20film
+1. Link to Ai Library online text (this one might work) - must be signed-in to online library to use:
+https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader.action?ppg=1&docID=774298&tm=1515113791573
 
 1. Maya Python Command Reference: http://help.autodesk.com/cloudhelp/2018/ENU/Maya-Tech-Docs/CommandsPython/index.html
 
@@ -92,7 +92,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. Practice: [Change Return](/practice/change-return.md)
 1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
 1. Individual Practice: [Madlib](/practice/madlib.md)
-1. [Booleans](/notes/py-booleans.md)
+<!-- 1. [Booleans](/notes/py-booleans.md)
 1. [Comparison Operators](/notes/py-operators-comparison.md)
 1. [Advanced Assignment](/notes/py-assignment-adv.md)
 1. [if/elif/else and Blocks](/notes/py-if-elif-else-blocks.md)
