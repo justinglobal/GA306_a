@@ -1,5 +1,10 @@
-Welcome to Class!
+###Welcome to Class!
 
+GA306 - Scripting for 3D tools with 🐍Python🐍
+
+Open web browser, Brackets, Maya, and Terminal
+
+All class info/assignments here: https://github.com/justinglobal/GA306_a
 
 
 <!-- 🐍Week 10 is here!🐍

@@ -6,8 +6,7 @@ Meeting Times and Location
 Wednesday 6PM – 10PM - Room 202
 
 FINAL EXAM DAY/TIME
-TBD
-<!-- Tuesday 5:30PM – 7:30PM – 9/18/2018 -->
+Wednesday 5:30 - 7:30 pm - 12/11/2018
 
 Instructor Name
 Justin Epperly
@@ -30,7 +29,7 @@ Prerequisites
 MA391 (Character Setup), GA131
 
 Course Length
-Monday 10/3/18 – Saturday 12/00/18
+Monday 10/3/18 – Saturday 12/17/18
 
 Contact Hours
 32-42
@@ -49,7 +48,42 @@ Maya Python for games and film: a complete reference for the Maya Python and the
 Materials and Supplies
 Students will acquire materials and supplies as needed.
 
-Holidays (school closed): TBD
+Holidays (school closed):
+
+WEEK 7
+Monday, November 12 (Veteran’s Day) – School Closed
+
+WEEK 8
+Thursday, November 22 (Thanksgiving) – School Closed
+Friday, November 23 (Day after Thanksgiving) – School Closed
+
+
+Important Dates:
+
+WEEK 1
+Monday (10/01/2018):		Fall I Begins
+Friday (10/05/2018):		Graduation Application due for FA’18 Grads
+
+WEEK 2
+Monday (10/08/2018):		Last day of Schedule Adjustment Period
+
+WEEK 9
+Friday (11/30/2018):		Last day to Drop with a “W”
+
+WEEK 10
+Friday (12/07/2018):		Last day to submit Incomplete Grade form
+
+WEEK 11
+Monday (12/10/2018):		Finals begin
+Thursday (12/13/2018):	Last day for Grads to submit Diploma Clearance Form for the FA term
+Thursday (12/13/2018):	Portfolio Show
+Thursday (12/13/2018):	Commencement (graduation) Ceremony
+Saturday (12/15/2018): 	Quarter Ends
+
+	Please note portfolio show and graduation are on a Thursday this quarter.
+
+
+<!-- Holidays (school closed): TBD -->
 
 <!-- WEEK 9
 Monday, September 3 (Labor Day) – School Closed
@@ -181,7 +215,26 @@ If students feel that a concern or a complaint has not been adequately resolved 
 Grade Changes
 All grade changes must be approved by the relevant Academic Department Director and the Dean of Academic Affairs, and must be submitted no later than the end of the second week of the following academic term.
 
-Final Exam Schedule TBD
+Final Exam Schedule:
+
+Monday Morning	Monday 8:00 - 10:00 am
+Monday Afternoon	Monday 12:30 - 2:30 pm
+Monday Evening	Monday 5:30 - 7:30 pm
+Tuesday Morning	Tuesday 8:00 - 10:00 am
+Tuesday Afternoon	Tuesday 12:30 - 2:30 pm
+Tuesday Evening	Tuesday 5:30 - 7:30 pm
+Wednesday Morning	Wednesday 8:00 - 10:00 am
+Wednesday Afternoon	Wednesday 12:30 - 2:30 pm
+Wednesday Evening	Wednesday 5:30 - 7:30 pm
+Thursday Morning	Thursday 8:00 - 10:00 am
+Thursday Afternoon	Monday 2:45 - 4:45 pm
+Thursday Evening	Monday 7:45 - 9:45 pm
+Friday Morning		Tuesday 10:15am - 12:15 pm
+Friday Afternoon	Tuesday 2:45 - 4:45 pm
+Friday Evening		Wednesday 2:45 - 4:45 pm
+Saturday Morning	Tuesday 7:45 - 9:45 pm
+
+
 <!-- Class Meeting     Exam Meeting
 Monday Morning    Monday 8:00 - 10:00 am
 Monday Afternoon	Monday 12:30 - 2:30 pm

@@ -10,9 +10,9 @@
 
 1. [Course Syllabus](/notes/syllabus.md)
 
-1. Link to slack channel: https://ga306-su2018.slack.com/
+1. Link to slack channel: https://ga306-fa2018.slack.com/
 
-1. Invitation to slack channel: https://join.slack.com/t/ga306-su2018/shared_invite/enQtMzk1MDA0NDYyNDAwLTc1YTBlNmNlMmRlN2ExNWJiMThkM2IwMjM5OTVmZjAxOThkOGZiZTA0ZmIwMDkxNWNmZGM4ZGJhM2NmODdkZGI
+1. Invitation to slack channel: https://join.slack.com/t/ga306-fa2018/shared_invite/enQtNDQ4MDMwOTQ1ODU2LTM0NjNlYjE0YjNjZjIxMmE4NTVhZDdhZWM1MTAwZmFmZmRhMWE3YjdiNzZmM2U0MTFlMjM3ZmVhMTlmNjhhYjU
 
 1. Link to online text official website (for downloading resources): http://www.maya-python.com/
 
