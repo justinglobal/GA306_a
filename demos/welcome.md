@@ -1,4 +1,4 @@
-###Welcome to Class!
+### Welcome to Class!
 
 GA306 - Scripting for 3D tools with 🐍Python🐍
 
