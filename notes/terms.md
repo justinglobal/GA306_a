@@ -48,7 +48,7 @@ edit mode
 
 query mode
 
-### Chapter 2
+<!-- ### Chapter 2
 
 flow control statements
 
@@ -112,7 +112,7 @@ __main__
 
 default attributes
 
-import
+import -->
 
 <!-- #### Introduction
 

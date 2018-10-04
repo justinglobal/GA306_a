@@ -2,7 +2,7 @@
     - Read Introduction and Chapter 1 of text
     - Do Chapter 1 Terms, turn in on slack
 
-1. Week 3 (due Week 4)
+<!-- 1. Week 3 (due Week 4)
 
     1. What version of Python is being used in your version of Maya?
 
@@ -104,7 +104,7 @@
 
 1. Week 9
     - Read Chapter 4 Modules to page 128.
-    - Define Ch. 4 terms 
+    - Define Ch. 4 terms  -->
 
 
 <!-- 1. Week 2
