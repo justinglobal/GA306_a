@@ -2,9 +2,9 @@
 
 ## Intro
 
-<!-- ### [Opening Exercise](demos/welcome.md)
+### [First day info - click here!](demos/welcome.md)
 
-### [Final Project info](demos/final.md) -->
+<!-- ### [Final Project info](demos/final.md) -->
 
 1. Welcome to Scripting for 3D tools!
 
