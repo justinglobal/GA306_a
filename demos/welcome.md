@@ -4,6 +4,10 @@ GA306 - Scripting for 3D tools with 🐍Python🐍
 
 Open web browser, Brackets, Maya, and Terminal
 
+Finish this exercise: [Space Dungeon Intro](/practice/spacedungeon-01.md)
+
+Think about what you would like to do for your final project.
+
 All class info/assignments here: https://github.com/justinglobal/GA306_a
 
 

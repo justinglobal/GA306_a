@@ -2,7 +2,7 @@
 
 ## Intro
 
-### [First day info - click here!](demos/welcome.md)
+### [Opening Exercise](demos/welcome.md)
 
 <!-- ### [Final Project info](demos/final.md) -->
 
