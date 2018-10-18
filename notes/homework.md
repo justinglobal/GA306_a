@@ -2,6 +2,9 @@
     - Read Introduction and Chapter 1 of text
     - Do Chapter 1 Terms, turn in on slack
 
+2. Week 3 homework (due week 4)
+    - Read Chapter 2 of text
+
 <!-- 1. Week 3 (due Week 4)
 
     1. What version of Python is being used in your version of Maya?

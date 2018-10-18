@@ -1,14 +1,25 @@
 ### Welcome to Class!
 
-GA306 - Scripting for 3D tools with 🐍Python🐍
+GA306 - Scripting for 3D tools with 🐍Python🐍 Week 3
 
 Open web browser, Brackets, Maya, and Terminal
 
-Finish this exercise: [Space Dungeon Intro](/practice/spacedungeon-01.md)
+Opening exercise 1 - Save script as "week3opener.py" and send to me via slack when finished.
+Write a python script that does the following:
+
+1. Make a cube 6x6x6 units.
+1. Make a sphere with a radius of 3 units.
+1. Connect the y translation of the sphere to the y translation of the cube
+
+If you finish do this exercise: [Change Return](/practice/change-return.md)
+
+All class info/assignments here: https://github.com/justinglobal/GA306_a
+
+<!-- Finish this exercise: [Space Dungeon Intro](/practice/spacedungeon-01.md)
 
 Think about what you would like to do for your final project.
 
-All class info/assignments here: https://github.com/justinglobal/GA306_a
+All class info/assignments here: https://github.com/justinglobal/GA306_a -->
 
 
 <!-- 🐍Week 10 is here!🐍
