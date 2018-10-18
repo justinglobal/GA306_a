@@ -98,7 +98,7 @@ https://ebookcentral-proquest-com.ai.libproxy.edmc.edu/lib/artedmc-ebooks/reader
 1. [if/elif/else and Blocks](/notes/py-if-elif-else-blocks.md)
 1. [Continuations](/notes/py-continuations.md)
 1. Practice: [Magic 8 Ball v1](/practice/magic8ball-v1.md)
-<!-- 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
+1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
 1. [Boolean Operators](/notes/py-operators-boolean.md)
 1. Demo: [Bool Game](/demos/bool-game.md)
 1. [While and For Loops](/notes/py-for-loops.md)
