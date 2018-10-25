@@ -11,10 +11,15 @@ Write a program that uses a For Loop to print your name plus the following strin
 Your output should use **your name** but look like this:
 
 j awesome
+
 u awesome
+
 s awesome
+
 t awesome
+
 i awesome
+
 n awesome
 
 Advanced: Do the same but put the code into a function that takes a the name as an argument.
