@@ -1,19 +1,36 @@
 ### Welcome to Class!
 
-GA306 - Scripting for 3D tools with 🐍Python🐍 Week 3
+GA306 - Scripting for 3D tools with 🐍Python🐍 Week 4
 
 Open web browser, Brackets, Maya, and Terminal
 
-Opening exercise 1 - Save script as "week3opener.py" and send to me via slack when finished.
+All class info/assignments here: https://github.com/justinglobal/GA306_a
+
+Write a program that uses a For Loop to print your name plus the following string: " awesome"
+
+Your output should use **your name** but look like this:
+
+j awesome
+u awesome
+s awesome
+t awesome
+i awesome
+n awesome
+
+Advanced: Do the same but put the code into a function that takes a the name as an argument.
+
+Save your file as "awesome.py" and send to instructor via slack.
+
+<!-- week 3 - Opening exercise 1 - Save script as "week3opener.py" and send to me via slack when finished.
 Write a python script that does the following:
 
 1. Make a cube 6x6x6 units.
 1. Make a sphere with a radius of 3 units.
 1. Connect the y translation of the sphere to the y translation of the cube
 
-If you finish do this exercise: [Change Return](/practice/change-return.md)
+If you finish do this exercise: [Change Return](/practice/change-return.md) -->
 
-All class info/assignments here: https://github.com/justinglobal/GA306_a
+
 
 <!-- Finish this exercise: [Space Dungeon Intro](/practice/spacedungeon-01.md)
 
