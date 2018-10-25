@@ -5,7 +5,7 @@
 2. Week 3 homework (due week 4)
     - Read Chapter 2 of text
 
-<!-- 1. Week 3 (due Week 4)
+1. Week 4 (due Week 5)
 
     1. What version of Python is being used in your version of Maya?
 
@@ -53,7 +53,7 @@
 
        - Connect the locator Y-translate attribute to the sphere scale (Hint: use the connectAttr() command.)
 
-1. Week 4 - Read Chapter 3 up to page 80
+<!-- 1. Week 4 - Read Chapter 3 up to page 80
 
 1. Week 5 - Answer the following questions:
 
