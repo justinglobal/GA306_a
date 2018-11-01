@@ -53,9 +53,10 @@
 
        - Connect the locator Y-translate attribute to the sphere scale (Hint: use the connectAttr() command.)
 
-<!-- 1. Week 4 - Read Chapter 3 up to page 80
+1. Week 5 - Read Chapter 3 up to page 80
+  - Do Chapter 2 and 3, which can be found in the [Terms list](/notes/terms.md)
 
-1. Week 5 - Answer the following questions:
+<!-- 1. Week 5 - Answer the following questions:
 
       The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
 
