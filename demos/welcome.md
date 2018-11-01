@@ -1,11 +1,16 @@
 ### Welcome to Class!
 
-GA306 - Scripting for 3D tools with 🐍Python🐍 Week 4
+GA306 - Scripting for 3D tools with 🐍Python🐍 Week 5
 
 Open web browser, Brackets, Maya, and Terminal
 
+Refactor your Magic 8 Ball program to use lists and then dictionaries.
+
+Save your file as magic8ball3.py and send to instructor via slack.
+
 All class info/assignments here: https://github.com/justinglobal/GA306_a
 
+<!-- Week 4
 Write a program that uses a For Loop to print your name plus the following string: " awesome"
 
 Your output should use **your name** but look like this:
@@ -24,7 +29,7 @@ n awesome
 
 Advanced: Do the same but put the code into a function that takes a the name as an argument.
 
-Save your file as "awesome.py" and send to instructor via slack.
+Save your file as "awesome.py" and send to instructor via slack. -->
 
 <!-- week 3 - Opening exercise 1 - Save script as "week3opener.py" and send to me via slack when finished.
 Write a python script that does the following:
