@@ -56,11 +56,7 @@
 1. Week 5 - Read Chapter 3 up to page 80
   - Do Chapter 2 and 3, which can be found in the [Terms list](/notes/terms.md)
 
-1. Week 6
-
-Quiz next week! Week 7 - quiz will be over terms from intro to ch. 3
-
-Answer the following questions:
+1. Week 6 - Quiz next week! Week 7 - quiz will be over terms from intro to ch. 3 Also: Answer the following questions:
 
       The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
 
