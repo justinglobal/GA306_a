@@ -56,7 +56,7 @@
 1. Week 5 - Read Chapter 3 up to page 80
   - Do Chapter 2 and 3, which can be found in the [Terms list](/notes/terms.md)
 
-<!-- 1. Week 5 - Answer the following questions:
+1. Week 6  - Answer the following questions:
 
       The goal of this assignment is for you to become familiar with using variables, lists, and functions to do the majority of the work in your code.
 
@@ -66,7 +66,8 @@
     1. Explain what a for loop is, and write a function that uses it to print the name of each object in a list.
         - (Hint: This list of objects could be called “my_selection”)
 
-    1. Explain what the range command does, and write a function that uses it to print the numbers 0 through 9.
+    1. Explain what the range command does, and write a function that uses it to add the word "node" to a list containing the numbers 0 through 9:  ["1","2","3","4","5","6","7","8","9"]
+    Hint: the len() function will be helpful.
 
     1. Write a function called print_parents that takes a list of Maya objects as an arguments and prints each node and its parent node.
           - (Hint: use listRelatives command.)
@@ -90,7 +91,7 @@
 
         1. Using list comprehension, create a Python list that consists of all meshes with more than 100 faces.  (Hint: use the ls command type arg to get the meshes and the polyEvaluate to get the number of faces)
 
-1. Week 7
+<!-- 1. Week 7
     1. Finish all homework not turned in
     1. Turn in all homework before next class
     1. Due Week 8 : Define all terms in [Terms list](/notes/terms.md)

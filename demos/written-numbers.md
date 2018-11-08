@@ -2,6 +2,8 @@
 
 Create a program that asks for a number in base-10 that's between 1 and 99 then prints out the name of it in English.
 
+Use functions in your code, including a [main function](/notes/py-functions-main.md).
+
 > 45
 > fourty-five
 >
@@ -20,4 +22,4 @@ tens = num // 10
 ones = num % 10
 ```
 
-[Source](/demos/written-numbers.py)
+<!-- [Source](/demos/written-numbers.py) -->

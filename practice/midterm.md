@@ -1,6 +1,6 @@
 ## GA306 Midterm
 
-### Short answer
+<!-- ### Short answer
 
 Save your answers in a .txt file and put it in your 'midterm' folder
 
@@ -21,4 +21,4 @@ Save your answers in a .txt file and put it in your 'midterm' folder
 
 1. Save file as 'noise_car.py', upload to github, then send link to the github file to instructor via slack
 
-1. Hint: First, understand the basics of what each function does - **look at the inputs via function argument and outputs via return value**, then edit the functions from create_car.py to use the proper function from polynoise.py to apply the transformation.
+1. Hint: First, understand the basics of what each function does - **look at the inputs via function argument and outputs via return value**, then edit the functions from create_car.py to use the proper function from polynoise.py to apply the transformation. -->

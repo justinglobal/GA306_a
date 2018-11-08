@@ -4,11 +4,16 @@ GA306 - Scripting for 3D tools with 🐍Python🐍 Week 5
 
 Open web browser, Brackets, Maya, and Terminal
 
-Refactor your Magic 8 Ball program to use lists and then dictionaries.
+Do the [Written Numbers Exercise](/demos/written-numbers.md)
 
-Save your file as magic8ball3.py and send to instructor via slack.
 
 All class info/assignments here: https://github.com/justinglobal/GA306_a
+
+
+<!-- Week 5 OPen: Refactor your Magic 8 Ball program to use lists and then dictionaries.
+
+Save your file as magic8ball3.py and send to instructor via slack. -->
+
 
 <!-- Week 4
 Write a program that uses a For Loop to print your name plus the following string: " awesome"
