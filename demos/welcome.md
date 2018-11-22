@@ -5,7 +5,7 @@ GA306 - Scripting for 3D tools with 🐍Python🐍 Week 8
 Open web browser, Brackets, Maya, and Terminal
 
 
-🐍For loop fun🐍
+<!-- 🐍For loop fun🐍
 
 Write a function that takes in a list of strings and appends ".function"
 and a number counting up from 1 for each item in the list and prints each
@@ -26,7 +26,7 @@ and also print the entire new list.
 
 Save file as "loopfun.py" and send to instructor via slack.
 
-Bonus: use the "enumerate" function in your answer.
+Bonus: use the "enumerate" function in your answer. -->
 
 
 🐍FUNctions and creating shapes🐍

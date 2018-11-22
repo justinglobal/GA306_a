@@ -91,6 +91,17 @@
 
         1. Using list comprehension, create a Python list that consists of all meshes with more than 100 faces.  (Hint: use the ls command type arg to get the meshes and the polyEvaluate to get the number of faces)
 
+1. Week 8
+    - Project: Car controller
+      - Go to this page: https://github.com/justinglobal/GA306_a/blob/master/practice/create_car.py
+      - Download the 'creat_car.py' file by right clicking on the 'Raw' button near the top right, then select "Save Link as..." Save the file to your computer.
+      - Make a basic cube, whatever dimensions you choose (default size is fine).
+      - Make a "controller" that moves the car along the x/z space by rotating the cube you just made in two dimensions.
+      - Hint: You'll be connecting the car's x/z translation to the cube's x/z rotation. A demo of this behavior using the connectAttr() function can be found on p.42 of your book.
+      - Save your file as 'control_car.py'
+
+
+
 <!-- 1. Week 7
     1. Finish all homework not turned in
     1. Turn in all homework before next class
