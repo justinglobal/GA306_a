@@ -1,13 +1,58 @@
 ### Welcome to Class!
 
-GA306 - Scripting for 3D tools with 🐍Python🐍 Week 5
+GA306 - Scripting for 3D tools with 🐍Python🐍 Week 8
 
 Open web browser, Brackets, Maya, and Terminal
 
-Do the [Written Numbers Exercise](/demos/written-numbers.md)
+
+🐍For loop fun🐍
+
+Write a function that takes in a list of strings and appends ".function"
+and a number counting up from 1 for each item in the list and prints each
+item as it iterates.
+
+So, if your list was like this example:
+
+your_list = ['left-arm', 'right-arm', 'left-leg', 'right-leg']
+
+your function would produce an output something like:
+
+left-arm.function1
+right-arm.function2
+left-leg.function3
+right-leg.function4
+
+and also print the entire new list.
+
+Save file as "loopfun.py" and send to instructor via slack.
+
+Bonus: use the "enumerate" function in your answer.
 
 
-All class info/assignments here: https://github.com/justinglobal/GA306_a
+🐍FUNctions and creating shapes🐍
+
+Write a function that creates a cube, a sphere, and a cylinder. Use default
+arguments to make the default value for the diameter of the sphere and Cylinder
+and the dimensions of the cube to be 4.
+
+Hint: write the code to make the objects first, then wrap them in a function
+with default arguments.
+
+Bonus: Make your function able to make all the standard shapes by default
+with a 'width' of 4, with an argument that allows the user to specify the
+number of each object to create. Ex: using this function, a user could create
+2 spheres, 1 cube, and 5 cylinders by changing the default argument.
+
+
+
+
+
+<!-- Week 9 - control car or snowman -->
+
+<!-- Do the [Written Numbers Exercise](/demos/written-numbers.md)
+
+
+All class info/assignments here: https://github.com/justinglobal/GA306_a -->
 
 
 <!-- Week 5 OPen: Refactor your Magic 8 Ball program to use lists and then dictionaries.
