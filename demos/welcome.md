@@ -1,9 +1,19 @@
 ### Welcome to Class!
 
-GA306 - Scripting for 3D tools with 🐍Python🐍 Week 8
+GA306 - Scripting for 3D tools with 🐍Python🐍 Week 9
 
 Open web browser, Brackets, Maya, and Terminal
 
+⛄ Snowman!⛄
+
+Write a script using python to make 3 spheres stacked on top of each other like
+a snowman.
+
+Make each sphere 25% smaller than the one below it and use locators to space them properly.
+
+Look at create_car.py for hints.
+
+Advanced: Add cylinders for 'arms' and a top hat or facial features.
 
 <!-- 🐍For loop fun🐍
 
@@ -29,7 +39,7 @@ Save file as "loopfun.py" and send to instructor via slack.
 Bonus: use the "enumerate" function in your answer. -->
 
 
-🐍FUNctions and creating shapes🐍
+<!-- 🐍FUNctions and creating shapes🐍
 
 Write a function that creates a cube, a sphere, and a cylinder. Use default
 arguments to make the default value for the diameter of the sphere and Cylinder
@@ -41,7 +51,7 @@ with default arguments.
 Bonus: Make your function able to make all the standard shapes by default
 with a 'width' of 4, with an argument that allows the user to specify the
 number of each object to create. Ex: using this function, a user could create
-2 spheres, 1 cube, and 5 cylinders by changing the default argument.
+2 spheres, 1 cube, and 5 cylinders by changing the default argument. -->
 
 
 
