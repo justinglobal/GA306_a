@@ -1,10 +1,12 @@
 ### Welcome to Class!
 
-GA306 - Scripting for 3D tools with 🐍Python🐍 Week 9
+GA306 - Scripting for 3D tools with 🐍Python🐍 Week 10
 
 Open web browser, Brackets, Maya, and Terminal
 
-⛄ Snowman!⛄
+Work on all homework not turned in!
+
+<!-- ⛄ Snowman!⛄
 
 Write a script using python to make 3 spheres stacked on top of each other like
 a snowman.
@@ -13,7 +15,7 @@ Make each sphere 25% smaller than the one below it and use locators to space the
 
 Look at create_car.py for hints.
 
-Advanced: Add cylinders for 'arms' and a top hat or facial features.
+Advanced: Add cylinders for 'arms' and a top hat or facial features.  -->
 
 <!-- 🐍For loop fun🐍
 
