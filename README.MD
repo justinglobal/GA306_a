@@ -2,6 +2,8 @@
 
 ## Intro
 
+## [Final Exercise](/demos/final.md)
+
 ### [Opening Exercise](demos/welcome.md)
 
 <!-- ### [Final Project info](demos/final.md) -->
